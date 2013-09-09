@@ -1,4 +1,4 @@
-rtmpt-proxy
+rtmpt-proxy [![Build Status](https://travis-ci.org/lindenbaum/rtmpt-proxy.png)](https://travis-ci.org/lindenbaum/rtmpt-proxy])
 ===========
 
 A simple proxy server for Adobe Flex RTMPT traffic. Wraps RTMP to RTMPT and unwraps RTMPT to plain RTMP.
